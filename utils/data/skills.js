@@ -2,7 +2,7 @@ export const skillsData = [
   'HTML',
   'CSS',
   'Javascript',
-  'Typescript',
+  'Python',
   'React',
   'Next JS',
   'Tailwind',
