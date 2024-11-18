@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Abdullah Arefin",
-  profile: './joy.jpg',
+  profile: '/joy.jpg',
   designation: "BoT Developer",
   description: "My name is Abdullah Arefin.",
   email: 'zxblack69official@gmail.com',
