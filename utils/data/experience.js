@@ -8,7 +8,7 @@ export const experiences = [
   {
     id: 2,
     title: "FullStack Developer",
-    company: "Fiverr (freelance)",
+    company: "Fiverr (freelancer)",
     duration: "(Oct 2023 - Running)"
   },
   {
