@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Abdullah Arefin - BoT Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I’m Abdullah Arefin, a skilled bot developer with expertise in creating custom bots for platforms like Discord and Telegram. Currently pursuing Class 12th, I also work as a freelancer on Fiverr, delivering high-quality bots for various needs, including moderation, music, and community engagement. With strong technical skills in Python and JavaScript, I’m passionate about building innovative solutions and providing top-notch service to my clients.",
 };
 
 export default function RootLayout({ children }) {
